@@ -1,0 +1,12 @@
+#copy{
+    border: 1px solid rgb(39, 9, 138);
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#copy:hover{
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+}
